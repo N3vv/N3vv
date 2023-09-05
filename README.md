@@ -4,9 +4,9 @@ My research interests include binary security, with a current focus on cellular 
 
 ### Reported Bugs
 - MediaTek: CVE-2023-20819
-- Samsung: CVE-2023-36481, CVE-2023-37366, CVE-2023-21503, CVE-2023-21504, CVE-2023-21494, CVE-2022-25821 and multiple inconsistent bugs in samsung baseband firmware ...
-- lrzip: CVE-2019-10654
+- Samsung: CVE-2023-37368, CVE-2023-36481, CVE-2023-37366, CVE-2023-21503, CVE-2023-21504, CVE-2023-21494, CVE-2022-25821 and multiple inconsistent bugs in samsung baseband firmware ...
 - zziplib: CVE-2020-18442
+- lrzip: CVE-2019-10654
 - ...
   
 ### How to Contact
