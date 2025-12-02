@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-I am n3vv/nevv.
-My research interests include binary security, with a current focus on cellular baseband firmware and protocol security.
+My id is n3vv/nevv and I am a security researcher.
 
 ### Reported Bugs
 - Fortinet: CVE-2024-46669
