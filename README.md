@@ -3,6 +3,7 @@
 My id is n3vv/nevv and I am a security researcher.
 
 ### Reported Bugs
+- Google TPU: Updating
 - rock-chips NPU: Updating... 
 - Fortinet: CVE-2024-46669
 - MediaTek: CVE-2023-20819
