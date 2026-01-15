@@ -3,11 +3,11 @@
 My id is n3vv/nevv and I am a security researcher.
 
 ### Reported Bugs
-- Google TPU: Updating
+- Google TPU: Updating...
 - rock-chips NPU: Updating... 
 - Fortinet: CVE-2024-46669
 - MediaTek: CVE-2023-20819
-- Samsung: CVE-2024-55569, CVE-2024-39890, CVE-2024-39343, CVE-2024-25073, CVE-2024-25074, CVE-2023-37368, CVE-2023-36481, CVE-2023-37366, CVE-2023-21503, CVE-2023-21504, CVE-2023-21494, CVE-2022-25821 and multiple inconsistent bugs in samsung baseband firmware ...
+- Samsung: CVE-2025-27807, CVE-2024-55569, CVE-2024-39890, CVE-2024-39343, CVE-2024-25073, CVE-2024-25074, CVE-2023-37368, CVE-2023-36481, CVE-2023-37366, CVE-2023-21503, CVE-2023-21504, CVE-2023-21494, CVE-2022-25821 and multiple inconsistent bugs in samsung baseband firmware ...
 - Tenda: CVE-2025-10432
 - zziplib: CVE-2020-18442
 - lrzip: CVE-2019-10654
