@@ -3,6 +3,7 @@
 My id is n3vv/nevv and I am a security researcher.
 
 ### Reported Bugs
+- libssh: CVE-2026-0968, CVE-2026-0964
 - Google TPU: Updating...
 - rock-chips NPU: Updating... 
 - Fortinet: CVE-2024-46669
