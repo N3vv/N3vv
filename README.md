@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My id is n3vv/nevv and I am a security researcher.
+I am a security researcher with a background initially focused on binary program analysis and cellular baseband firmware security. 
+
+Currently, my work primarily centers on vulnerability discovery in areas such as NPU chip drivers and operating system components, along with exploring the application of LLM to enhance vulnerability discovery.
 
 ### Reported Bugs
 - libssh: CVE-2026-0968, CVE-2026-0964, [sftp_OOB](https://www.libssh.org/security/advisories/libssh-2026-sftp-extensions.txt)
