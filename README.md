@@ -3,7 +3,7 @@
 My id is n3vv/nevv and I am a security researcher.
 
 ### Reported Bugs
-- libssh: CVE-2026-0968, CVE-2026-0964
+- libssh: CVE-2026-0968, CVE-2026-0964, [sftp_OOB](https://www.libssh.org/security/advisories/libssh-2026-sftp-extensions.txt)
 - Google TPU: Updating...
 - rock-chips NPU: CNNVD-2025-49\*\*6, CNNVD-2025-10\*\*5, Updating... 
 - Fortinet: CVE-2024-46669
