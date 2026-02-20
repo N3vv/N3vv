@@ -25,7 +25,7 @@ Currently, my work primarily centers on vulnerability discovery in areas such as
 - lrzip: CVE-2019-10654
   
 ### How to Contact
-- Email: nevviie@163.com
+- Email: nevviie@163.com & 416c6578isgood@gmail.com
 - HackerOne: [N3vv](https://hackerone.com/nevv)
 
 <!--
