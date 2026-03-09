@@ -20,7 +20,7 @@ Currently, my work primarily centers on vulnerability discovery in areas such as
 
 #### Open Source Code
 
-- libssh: CVE-2026-0968, CVE-2026-0964, [sftp_OOB](https://www.libssh.org/security/advisories/libssh-2026-sftp-extensions.txt)
+- libssh: CVE-2026-0968, CVE-2026-0964, CVE-2026-3731
 - zziplib: CVE-2020-18442
 - lrzip: CVE-2019-10654
   
