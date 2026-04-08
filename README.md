@@ -21,6 +21,7 @@ Currently, my work primarily centers on vulnerability discovery in areas such as
 #### Open Source Code
 
 - libssh: CVE-2026-0968, CVE-2026-0964, CVE-2026-3731
+- openssl: CVE-2026-28390(duplicated)
 - zziplib: CVE-2020-18442
 - lrzip: CVE-2019-10654
   
