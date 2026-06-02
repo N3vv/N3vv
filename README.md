@@ -2,7 +2,7 @@
 
 I am a security researcher with a background initially focused on binary program analysis and cellular baseband firmware security. 
 
-Currently, my work primarily centers on vulnerability discovery in areas such as NPU chip drivers and operating system components, along with exploring the application of LLM to enhance vulnerability discovery.
+Currently, my work primarily focuses on vulnerability detection in areas such as NPU chip drivers and OSS components, as well as exploring the application of LLMs to enhance this process.
 
 ### Reported Bugs
 
